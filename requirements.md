@@ -12,9 +12,9 @@ When selecting a hosting company, you should check if the following requirements
 
 There are three core requirements for your host to run TastyIgniter:
 
-- Web Server (Apache recommended)
-- PHP (at least 5.4)
-- MySQL version 4.1 or higher (MySQLi recommended)
+- Web Server - Apache recommended
+- PHP (>= 5.4, < 7), PHP-PEAR
+- MySQL (>= 4.1) - MySQLi recommended
 
 {{site.data.alerts.note}}TastyIgniter is compatible with almost every server that supports PHP and MySQL. However, we recommend Apache{{site.data.alerts.end}}
 
